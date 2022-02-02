@@ -1,0 +1,102 @@
+.logoImage
+{
+	padding-top: 5px;
+	padding-bottom: 5px;
+	 background-color: #E8EBF7;
+	width:120px; 
+	height:100px;
+	
+}
+.card-img-top{
+	margin-left:80px;
+	width:150px; 
+	height:150px;
+	
+}
+
+.banner{
+	width:100%; 
+	display:block;
+		
+}
+.banner > .banner-image{
+	width:100%;
+	display:block;
+}
+.bg-primary{
+	height:450px
+	width:100%
+	display:block;
+}
+.map{
+	margin-left:25px;
+}
+.product10{
+	width:100px; 
+	height:150px;
+
+	
+}
+.product11{
+	width:150px; 
+	height:150px;
+	
+}
+.product12{
+	width:200px; 
+	height:150px;
+	
+}
+.product13{
+	width:200px; 
+	height:150px;
+
+	
+}
+body {
+  background-color: #E8EBF7;
+}
+.card-img-top{
+	width:100px; 
+	padding:10px;
+	height:150px;
+	margin-left:115px;
+}
+.register{
+	margin: auto;
+	border: solid;
+  width: 50%;
+  padding: 10px;
+}
+.nav-item
+{
+background-color: 94FBAB;
+color: #94FBAB;
+font-weight: bold;
+text-decoration: underline ;
+}
+.log{
+	margin: auto;
+	width: 50%;
+  padding: 10px;
+}
+.con{
+	margin: auto;
+	border: solid;
+  width: 50%;
+  padding: 10px;
+	
+}
+.breadcrumb{
+	background-color: #EAC8CA;
+}
+.productimg{
+	margin: auto;
+	width:1000px;
+}
+h1{
+	margin: auto;
+  width: 20%;
+  padding: 10px;
+}
+
